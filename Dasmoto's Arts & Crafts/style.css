@@ -1,0 +1,52 @@
+html,body {
+    overflow: auto;
+    width: 100%;
+    margin: 0;
+}
+
+header {
+    background-image: url(pattern.jpeg);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 50px 8px;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 25px 8px;
+}
+
+.img1,.img2,.img3 {margin-left: 8px;}
+h3,p {padding-left: 8px;}
+
+.narxi {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.frames {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 25px 8px;
+}
+
+.paint {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 25px 8px;
+}
+
